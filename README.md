@@ -2,6 +2,10 @@
 
 A technical communication case study exploring how the role of technical writers has evolved beyond traditional documentation.
 
+## Preview
+
+![Preview](preview.png)
+
 ## Overview
 
 Many people associate technical writing with user guides, API documentation, and help articles.
